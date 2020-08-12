@@ -1,0 +1,1 @@
+void GameOver(int Whites, int Blacks, char *EndGame);

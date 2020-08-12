@@ -1,0 +1,1 @@
+char ConvertTrue(int Turn);
